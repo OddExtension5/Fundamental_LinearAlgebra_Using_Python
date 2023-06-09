@@ -9,7 +9,7 @@ In the world of data science, data is not only represented in the form of vector
 ## LAB
 This lab is part of a set of five labs. These labs aim to teach linear algebra with a special emphasis on coding examples and good visualization practices. This is achieved using Python and its libraries like Numpy, Matlplotlib, etc.
 
-### LAB 01: Introduction to Linear Algebra Using Python
+### [LAB 01: Introduction to Linear Algebra Using Python](https://github.com/ASPIRE-ACADEMY/Fundamental_LinearAlgebra_Using_Python/blob/main/lab01.ipynb)
 In this lab, you will learn the following:
 
 + Basics of vectors  
